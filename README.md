@@ -1,5 +1,8 @@
 # GmailLogout
 
+Solved Error 
+java.lang.IllegalStateException: Already managing a GoogleApiClient with id 0
+
 @Override
 public void onStop() {
 
